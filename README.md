@@ -2,7 +2,7 @@
 
 This is the GitHub Repository for the Python for Everyone course I am conducting in Springfields Apartments.
 
-Kudos to the Analytics Club, IITM, for their generous help with the Jupyter Notebooks. In fact much of the content here would not be possible without their support and hard work.
+Kudos to the Data Science and AI Club, IITM, for their generous help with the Jupyter Notebooks. In fact much of the content here would not be possible without their support and hard work.
 
 If anyone has any problems installing Anaconda, please visit the following links:
 
