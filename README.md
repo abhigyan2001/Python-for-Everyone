@@ -1,4 +1,4 @@
-# Python-for-Everyone
+# Python for Everyone
 
 This is the GitHub Repository for the Python for Everyone course I am conducting in Springfields Apartments.
 
