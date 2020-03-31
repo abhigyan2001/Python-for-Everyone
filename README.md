@@ -8,6 +8,6 @@ If anyone has any problems installing Anaconda, please visit the following links
 
 [Windows](https://docs.anaconda.com/anaconda/install/windows/) | [Linux](https://docs.anaconda.com/anaconda/install/linux/) | [macOS](https://docs.anaconda.com/anaconda/install/mac-os/)
 
-And, if anyone has any other issues, please put them up on the Issues Tab present on GitHub. I'll be notified instantly, so I'll be able to help you much better, and what's more is that it will be there for everyone to see in the future as well, so it'll be a community service as well!
+And, if anyone has any other issues, please put them up on the Issues Tab present on GitHub. I'll be notified instantly, so I'll be able to help you much better, and what's more is that it will be there for everyone to see in the future as well, so it'll be a community service too!
 
 Happy learning!
